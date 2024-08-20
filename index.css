@@ -1,0 +1,31 @@
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/003/659/499/original/calendar-background-illustration-with-circle-sign-for-planning-important-matter-time-management-work-organization-and-life-events-notification-or-holiday-vector.jpg);
+    background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+h1 {
+    color: #143d69;
+    background-color: #5799df;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    transition: top 0.5s ease-in-out;
+    z-index: 9999;
+}
+
+#results {
+    margin-top: 20px;
+    background-color: #346498;
+   }
+
+.holiday-card {
+    margin-bottom: 15px;
+}
+
+.holiday-card .card-header {
+    background-color: #007bff;
+    color: white;
+}
