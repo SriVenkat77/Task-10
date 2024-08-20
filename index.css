@@ -1,0 +1,52 @@
+body {
+    background-color: #f8f9fa;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi91lSKe3l-fDgnZzuIBKlw8Y9fFzoJ7h5sg&s);
+    background-repeat: no-repeat;
+ background-attachment: fixed;
+  background-size: cover;
+
+}
+
+.navbar {
+    background-color: #008080;
+}
+
+.navbar .navbar-brand {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.btn-teal {
+    background-color: #008080;
+    border-color: #008080;
+}
+
+.btn-teal:hover {
+    background-color: #005f5f;
+    border-color: #005f5f;
+}
+
+#result {
+    margin-top: 1.5rem;
+    font-weight: bold;
+    color: #28a745;
+}
+
+.btn-outline-secondary {
+    border-color: #008080;
+    color: #008080;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #008080;
+    color: #ffffff;
+}
+
+
+
